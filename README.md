@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravitejameruva
 - 👀 I’m interested in Web & Mobile App Development, Machine Learning, AI & IOT
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Datascience Again
 - 📫 How to reach me raviitejameruva@icloud.com
 
 <!---
